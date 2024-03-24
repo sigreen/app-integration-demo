@@ -1,0 +1,5 @@
+{
+	"`CONFIG_CONN_NAME`": "projects/solo-test-236622/locations/us-east1/connections/pubsub",
+	"`CONFIG_ENV`": "qa",
+	"`CONFIG_URL`": "https://mocktarget.apigee.net/echo"
+}
